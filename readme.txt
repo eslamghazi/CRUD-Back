@@ -6,4 +6,4 @@ My Database
 
 PORT=8080
 JWT_SECRET=tasksapi
-MONGO_URL='mongodb+srv://eslamghazi:<Mob22446688>@cluster0.uxxlfwv.mongodb.net/?retryWrites=true&w=majority'
+MONGO_URL='mongodb+srv://eslamghazi:Mob22446688@cluster0.uxxlfwv.mongodb.net/?retryWrites=true&w=majority'
